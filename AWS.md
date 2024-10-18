@@ -137,4 +137,4 @@ Here’s a list of DevOps interview questions focused on AWS, organized from eas
 - **Advanced:** CI/CD, security practices, architectural considerations, and advanced AWS services.
 - **Expert:** Design principles, compliance, disaster recovery strategies, and complex integrations.
 
-This structure helps evaluate a candidate's AWS knowledge progressively, covering beginner to advanced concepts. Let me know if you need any modifications or additional questions!
+This progression covers most of the concepts you’ll encounter in interviews.
